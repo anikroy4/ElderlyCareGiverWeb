@@ -1,5 +1,5 @@
 import React from 'react'
-import Container from '../layers/Container'
+import Container from '../../layers/Container'
 
 const Navbar = () => {
   return (
