@@ -3,7 +3,9 @@ import Container from '../../layers/Container'
 
 const Navbar = () => {
   return (
-    <Container>Navbar</Container>
+    <Container>
+      
+    </Container>
   )
 }
 
