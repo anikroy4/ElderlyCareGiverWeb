@@ -4,6 +4,7 @@ import Image from '../../layers/Image'
 
 const Navbar = () => {
   return (
+<<<<<<< Updated upstream
     <Container>
      <div>
         <div>
@@ -19,6 +20,9 @@ const Navbar = () => {
         </div>
      </div>
     </Container>
+=======
+    <Container>hi</Container>
+>>>>>>> Stashed changes
   )
 }
 
