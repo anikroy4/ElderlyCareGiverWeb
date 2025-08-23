@@ -21,7 +21,7 @@ const Navbar = () => {
           </List>
 
         </div>
-        <div>
+        <div className='flex gap-x-10 items-center justify-center'>
            <div className='flex items-center justify-center gap-x-10'>
             <button className="relative after:absolute after:w-[1px] after:h-[32px] after:bg-[#BFBFBF] after:right-[-23px] after:top-[50%] after:-translate-y-[50%] py-[10px] px-[10px] bg-[#305A7C] border border-solid border-[#CDCDCD] rounded-[10px] text-[#FEFFFE] font-medium text-base" >
               Login
