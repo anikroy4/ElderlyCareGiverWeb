@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <>
       <Container>
-        hi
+        
       </Container>
     </>
   )
